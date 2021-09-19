@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T08:55:13.296Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="9Z4bcMhnoDxTqjKNd0ek" version="15.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-19T22:22:48.928Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="7nIwGrHwvg7fPhICKjmt" version="15.1.4" type="github" pages="4">
   <diagram name="Conditional Order" id="UzjzO_GgUASHsdlZslyv">
     <mxGraphModel dx="4002" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -745,8 +745,7 @@
               <mxPoint x="3580" y="1346" />
               <mxPoint x="3560" y="1346" />
               <mxPoint x="3560" y="860" />
-              <mxPoint x="3010" y="860" />
-              <mxPoint x="3010" y="605" />
+              <mxPoint x="2980" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -923,7 +922,7 @@
           <mxGeometry x="2480" y="29" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4Gsy31ebdq-OGoGYC07o-53" value="Questions for joint:&amp;nbsp;&lt;br&gt;&lt;br&gt;- should we be asking for HWF information first or will solicitors be aware of this? - HWF is required, mirror what is shown in div1&amp;nbsp;&lt;br&gt;&lt;br&gt;-&amp;nbsp;&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#FF0000;" parent="wyB5MmASiWUWbdZRvzDF-1" vertex="1">
-          <mxGeometry x="-460" y="270" width="320" height="200" as="geometry" />
+          <mxGeometry x="-510" y="190" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="4Gsy31ebdq-OGoGYC07o-103" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wyB5MmASiWUWbdZRvzDF-1" vertex="1">
           <mxGeometry x="800" y="99.99666666666673" width="40" height="20" as="geometry" />
@@ -2569,7 +2568,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Version 1" id="k3Jd0ISuG4yfQMjMCZCH">
-    <mxGraphModel dx="1186" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
