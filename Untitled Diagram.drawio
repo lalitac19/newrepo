@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T22:53:06.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="P8ZWPES4oRvehJKVUmaC" version="15.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-19T22:57:59.943Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Mqn8N7KYXGRTUQ68VVic" version="15.1.4" type="github" pages="4">
   <diagram name="Conditional Order" id="UzjzO_GgUASHsdlZslyv">
-    <mxGraphModel dx="3762" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3314" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="wyB5MmASiWUWbdZRvzDF-0" />
         <mxCell id="wyB5MmASiWUWbdZRvzDF-1" parent="wyB5MmASiWUWbdZRvzDF-0" />
@@ -211,7 +211,7 @@
           <mxGeometry x="2670" y="330" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xu4fKm0DpOwc1OmtIl89-361" value="&lt;b&gt;Event:&lt;br&gt;&lt;/b&gt;&lt;font face=&quot;Helvetica&quot;&gt;acknowledge&amp;nbsp;receipt&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="wyB5MmASiWUWbdZRvzDF-3">
-          <mxGeometry x="2430" y="88.06" width="90" height="41.94" as="geometry" />
+          <mxGeometry x="2420" y="144.81" width="90" height="41.94" as="geometry" />
         </mxCell>
         <mxCell id="wyB5MmASiWUWbdZRvzDF-82" value="Applicant 2&lt;br&gt;Organisation &lt;br&gt;Administrator&amp;nbsp;" style="swimlane;html=1;startSize=40;horizontal=0;" parent="wyB5MmASiWUWbdZRvzDF-2" vertex="1">
           <mxGeometry y="410" width="6470" height="120" as="geometry" />
@@ -436,6 +436,9 @@
         </mxCell>
         <mxCell id="IJgFMk3EBpdZ4JfDLC-T-0" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Both applicants will need to confirm&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="wyB5MmASiWUWbdZRvzDF-141">
           <mxGeometry x="2880" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xu4fKm0DpOwc1OmtIl89-362" value="&lt;b&gt;Event:&lt;br&gt;&lt;/b&gt;&lt;font face=&quot;Helvetica&quot;&gt;acknowledge&amp;nbsp;receipt&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="wyB5MmASiWUWbdZRvzDF-141">
+          <mxGeometry x="2366" y="54.059999999999945" width="90" height="41.94" as="geometry" />
         </mxCell>
         <mxCell id="Xu4fKm0DpOwc1OmtIl89-223" value="Caseworker" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="wyB5MmASiWUWbdZRvzDF-2">
           <mxGeometry y="806.25" width="6470" height="353.75" as="geometry">
@@ -825,7 +828,7 @@
           <mxGeometry x="705" y="116.25" width="70" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Xu4fKm0DpOwc1OmtIl89-239" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;notifications to go to both app solicitors to invite to apply to conditional order&amp;nbsp;&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="Xu4fKm0DpOwc1OmtIl89-311">
-          <mxGeometry x="790" y="181.87" width="100" height="60" as="geometry" />
+          <mxGeometry x="775" y="253.25" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xu4fKm0DpOwc1OmtIl89-240" value="&lt;b&gt;Both applicant invited to apply for CO&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="Xu4fKm0DpOwc1OmtIl89-311">
           <mxGeometry x="700" y="198.25" width="80" height="55" as="geometry" />
@@ -847,6 +850,22 @@
               <mxPoint x="590" y="946.25" />
               <mxPoint x="590" y="945.25" />
               <mxPoint x="735" y="945.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xu4fKm0DpOwc1OmtIl89-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wyB5MmASiWUWbdZRvzDF-2" source="Xu4fKm0DpOwc1OmtIl89-240" target="Dzt0slZm_T8Roepfdlg1-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2620" y="1810" />
+              <mxPoint x="2620" y="574" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xu4fKm0DpOwc1OmtIl89-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wyB5MmASiWUWbdZRvzDF-2" source="Xu4fKm0DpOwc1OmtIl89-240" target="Dzt0slZm_T8Roepfdlg1-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2540" y="1810" />
+              <mxPoint x="2540" y="131" />
             </Array>
           </mxGeometry>
         </mxCell>
