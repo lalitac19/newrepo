@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T23:46:15.499Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ji6dPuZ56HgwpW1RY8H4" version="15.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-09-20T16:14:50.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="CMCULK3qde1CaUxb8A9m" version="15.1.4" type="github" pages="6">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
-    <mxGraphModel dx="3516" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="8039" dy="2603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="wyB5MmASiWUWbdZRvzDF-0" />
         <mxCell id="wyB5MmASiWUWbdZRvzDF-1" parent="wyB5MmASiWUWbdZRvzDF-0" />
@@ -208,7 +208,7 @@
           <mxGeometry x="2790" y="131.5" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="flrUwObjVT1ocd6PyXul-36" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Switch to sole at this point - if either applicant doesnt respond&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="wyB5MmASiWUWbdZRvzDF-3" vertex="1">
-          <mxGeometry x="2670" y="330" width="80" height="60" as="geometry" />
+          <mxGeometry x="2710" y="320" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xu4fKm0DpOwc1OmtIl89-361" value="&lt;b&gt;Event:&lt;br&gt;&lt;/b&gt;&lt;font face=&quot;Helvetica&quot;&gt;acknowledge&amp;nbsp;receipt&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="wyB5MmASiWUWbdZRvzDF-3">
           <mxGeometry x="2420" y="144.81" width="90" height="41.94" as="geometry" />
@@ -894,7 +894,7 @@
           <mxGeometry x="-60" y="30" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4Gsy31ebdq-OGoGYC07o-53" value="Outstanding Questions for joint:&amp;nbsp;&lt;br&gt;&lt;br&gt;- should we be asking for HWF information first or will solicitors be aware of this? - HWF is required, mirror what is shown in div1&amp;nbsp;&lt;br&gt;&lt;br&gt;-&amp;nbsp;&lt;span style=&quot;font-size: 8px&quot;&gt;Tech question - how are the cases technically linked in ExUI?&lt;br&gt;&lt;br&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Can we retrieve these details &amp;amp; get them to confirm&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#FF0000;" parent="wyB5MmASiWUWbdZRvzDF-1" vertex="1">
-          <mxGeometry x="-620" y="190" width="430" height="220" as="geometry" />
+          <mxGeometry x="-1000" y="380" width="430" height="220" as="geometry" />
         </mxCell>
         <mxCell id="qb4fzHsUZ4-9xd4ygaEW-0" value="&lt;b&gt;State:&lt;br&gt;AwaitingFinalOrder&lt;/b&gt;" style="html=1;whiteSpace=wrap;;fontSize=11;fontColor=#000000;spacing=5;strokeOpacity=100;strokeWidth=1.2;" vertex="1" parent="wyB5MmASiWUWbdZRvzDF-1">
           <mxGeometry x="5150" y="934.3899999999999" width="120" height="57" as="geometry" />
@@ -962,7 +962,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Joint solicitors - CO" id="zDZvSUZhLyXjI66MWQQM">
-    <mxGraphModel dx="4047" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="8039" dy="2603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="c8gu8YVeUBE0fCfZA-6u-0" />
         <mxCell id="c8gu8YVeUBE0fCfZA-6u-1" parent="c8gu8YVeUBE0fCfZA-6u-0" />
