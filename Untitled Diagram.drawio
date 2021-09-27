@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T10:19:05.110Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Kz5r7jV00IN5Rmguqnve" version="15.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-09-27T10:56:44.930Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="PCq9cuon1JYWhUkCKIga" version="15.1.4" type="github" pages="6">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
-    <mxGraphModel dx="3650" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4962" dy="1256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="wyB5MmASiWUWbdZRvzDF-0" />
         <mxCell id="wyB5MmASiWUWbdZRvzDF-1" parent="wyB5MmASiWUWbdZRvzDF-0" />
         <mxCell id="wyB5MmASiWUWbdZRvzDF-2" value="" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="wyB5MmASiWUWbdZRvzDF-1" vertex="1">
           <mxGeometry x="-120" y="60" width="6440" height="2478.75" as="geometry" />
         </mxCell>
-        <mxCell id="wyB5MmASiWUWbdZRvzDF-3" value="Applicant Solciitor" style="swimlane;html=1;startSize=40;horizontal=0;" parent="wyB5MmASiWUWbdZRvzDF-2" vertex="1">
+        <mxCell id="wyB5MmASiWUWbdZRvzDF-3" value="Applicant1 Solciitor" style="swimlane;html=1;startSize=40;horizontal=0;" parent="wyB5MmASiWUWbdZRvzDF-2" vertex="1">
           <mxGeometry y="20" width="6440" height="390" as="geometry" />
         </mxCell>
         <mxCell id="wyB5MmASiWUWbdZRvzDF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="wyB5MmASiWUWbdZRvzDF-3" source="wyB5MmASiWUWbdZRvzDF-5" target="Y6NthDMX_8adtIv0fMUY-2" edge="1">
@@ -923,8 +923,8 @@
         <mxCell id="wyB5MmASiWUWbdZRvzDF-134" value="&lt;span style=&quot;font-size: 18px&quot;&gt;NFD Joint Divorce - Different Solicitors Representing both Applicants&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" parent="wyB5MmASiWUWbdZRvzDF-1" vertex="1">
           <mxGeometry x="-120" y="20" width="6440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wyB5MmASiWUWbdZRvzDF-174" value="Last update: 20/09/2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="wyB5MmASiWUWbdZRvzDF-1" vertex="1">
-          <mxGeometry x="-60" y="30" width="150" height="20" as="geometry" />
+        <mxCell id="wyB5MmASiWUWbdZRvzDF-174" value="Last update: 27/09/2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="wyB5MmASiWUWbdZRvzDF-1" vertex="1">
+          <mxGeometry x="-100" y="30" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4Gsy31ebdq-OGoGYC07o-53" value="Outstanding Questions for joint:&amp;nbsp;&lt;br&gt;&lt;br&gt;- should we be asking for HWF information first or will solicitors be aware of this? - HWF is required, mirror what is shown in div1&amp;nbsp;&lt;br&gt;&lt;br&gt;-&amp;nbsp;&lt;span style=&quot;font-size: 8px&quot;&gt;Tech question - how are the cases technically linked in ExUI?&lt;br&gt;&lt;br&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Can we retrieve these details &amp;amp; get them to confirm&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#FF0000;" parent="wyB5MmASiWUWbdZRvzDF-1" vertex="1">
           <mxGeometry x="-1000" y="380" width="430" height="220" as="geometry" />
