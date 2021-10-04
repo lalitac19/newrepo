@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T09:24:50.459Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="3SbwmzIze1u6rW8jKzak" version="15.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-10-04T09:58:48.504Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="8xbgbwTOf7eBOHwJBF3h" version="15.1.4" type="github" pages="7">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
     <mxGraphModel dx="3882" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -992,7 +992,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Joint solicitors - application" id="G1zOZyjJlgcDFVAlR0I8">
-    <mxGraphModel dx="3802" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3549" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-0" />
         <mxCell id="3PJNPCHeUd-rgZYDl06C-1" parent="3PJNPCHeUd-rgZYDl06C-0" />
@@ -1157,7 +1157,7 @@
         <mxCell id="3PJNPCHeUd-rgZYDl06C-87" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Ability to update application before submitting - same as solicitor sole&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-3">
           <mxGeometry x="1730" y="60.410000000000004" width="80" height="43.09" as="geometry" />
         </mxCell>
-        <mxCell id="3PJNPCHeUd-rgZYDl06C-88" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;ask the questions for applicant 2&amp;nbsp;&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-3">
+        <mxCell id="3PJNPCHeUd-rgZYDl06C-88" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;app1 will answer these questions for applicant 2&amp;nbsp;&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-3">
           <mxGeometry x="1150" y="168.75" width="330" height="31.83" as="geometry" />
         </mxCell>
         <mxCell id="okbv3gKBUmlBfdGlxbtn-0" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Put app into draft state here - sol can use update event to update application&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-3">
@@ -1256,11 +1256,11 @@
         <mxCell id="okbv3gKBUmlBfdGlxbtn-1" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Move case from draft to awaitingAppplicant2Answers&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Use dynamic event list&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
           <mxGeometry x="520" y="133.62" width="170" height="86.38" as="geometry" />
         </mxCell>
-        <mxCell id="okbv3gKBUmlBfdGlxbtn-2" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Do we even need this?!&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
-          <mxGeometry x="1360" y="184.94" width="80" height="35.06" as="geometry" />
+        <mxCell id="okbv3gKBUmlBfdGlxbtn-2" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Can we have app1 changing answers for app2?&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+          <mxGeometry x="1320" y="184.94" width="120" height="45.06" as="geometry" />
         </mxCell>
-        <mxCell id="okbv3gKBUmlBfdGlxbtn-3" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Do we need app2 to confim on finanical order?&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
-          <mxGeometry x="1170" y="87.5" width="80" height="35.06" as="geometry" />
+        <mxCell id="okbv3gKBUmlBfdGlxbtn-3" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;App1 solicitor will be providing all the answers for app2&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+          <mxGeometry x="1170" y="87.5" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-134" value="Caseworker" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-2">
           <mxGeometry y="806.25" width="6440" height="353.75" as="geometry">
