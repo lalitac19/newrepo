@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T09:51:57.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ROd3xv-LCPeA56Dnwzdl" version="15.6.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-11-12T15:03:57.422Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="VIPA_CUK4m0bqSdDGt70" version="15.6.8" type="github" pages="7">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
     <mxGraphModel dx="4242" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -995,14 +995,14 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Joint solicitors - application" id="G1zOZyjJlgcDFVAlR0I8">
-    <mxGraphModel dx="3244" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4242" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-0" />
         <mxCell id="3PJNPCHeUd-rgZYDl06C-1" parent="3PJNPCHeUd-rgZYDl06C-0" />
         <mxCell id="3PJNPCHeUd-rgZYDl06C-2" value="" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="3PJNPCHeUd-rgZYDl06C-1" vertex="1">
           <mxGeometry x="-120" y="60" width="6440" height="2478.75" as="geometry" />
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="3PJNPCHeUd-rgZYDl06C-2" source="MSEFPUk9Gw3bi1AdGE-H-107" target="MSEFPUk9Gw3bi1AdGE-H-123">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="3PJNPCHeUd-rgZYDl06C-2" source="MSEFPUk9Gw3bi1AdGE-H-107" target="MSEFPUk9Gw3bi1AdGE-H-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-3" value="Applicant1 Solciitor" style="swimlane;html=1;startSize=40;horizontal=0;" parent="3PJNPCHeUd-rgZYDl06C-2" vertex="1">
@@ -1163,7 +1163,7 @@
         <mxCell id="okbv3gKBUmlBfdGlxbtn-58" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;HWF - need to include this for app2&amp;nbsp;&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
           <mxGeometry x="2150" y="290" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="3PJNPCHeUd-rgZYDl06C-3" source="MSEFPUk9Gw3bi1AdGE-H-123" target="3PJNPCHeUd-rgZYDl06C-10">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="3PJNPCHeUd-rgZYDl06C-3" source="MSEFPUk9Gw3bi1AdGE-H-123" target="3PJNPCHeUd-rgZYDl06C-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1770" y="174" />
@@ -1172,16 +1172,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-123" value="&lt;b&gt;Update case&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-3">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-123" value="&lt;b&gt;Update case&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
           <mxGeometry x="1780" y="156.75" width="60" height="34.62" as="geometry" />
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-130" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Can we check if phone number can be added?&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-3">
-          <mxGeometry x="270" y="129.25" width="80" height="30.75" as="geometry" />
-        </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-184" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Appl1 solicitor will need to view the answers from app2&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-3">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-184" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Appl1 solicitor will need to view the answers from app2&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
           <mxGeometry x="1900" y="300" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-185" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Appl1 solicitor &amp;amp; app2 solicitor&amp;nbsp;will be notified&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-3">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-185" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Appl1 solicitor &amp;amp; app2 solicitor&amp;nbsp;will be notified&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
           <mxGeometry x="2300" y="173.75" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-90" value="Applicant 2&lt;br&gt;Organisation &lt;br&gt;Administrator&amp;nbsp;" style="swimlane;html=1;startSize=40;horizontal=0;" parent="3PJNPCHeUd-rgZYDl06C-2" vertex="1">
@@ -1241,7 +1238,7 @@
         <mxCell id="okbv3gKBUmlBfdGlxbtn-1" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Move case from draft to awaitingAppplicant2Response&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Use dynamic event list&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="460" y="137.12" width="130" height="82.88" as="geometry" />
         </mxCell>
-        <mxCell id="ROezJhRpc7j8K8PoUk-B-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3PJNPCHeUd-rgZYDl06C-97" source="tVC2MskHSsgyznJ84zAu-0" target="MSEFPUk9Gw3bi1AdGE-H-108">
+        <mxCell id="ROezJhRpc7j8K8PoUk-B-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3PJNPCHeUd-rgZYDl06C-97" source="tVC2MskHSsgyznJ84zAu-0" target="MSEFPUk9Gw3bi1AdGE-H-108" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1345" y="92.77142857142849" as="targetPoint" />
           </mxGeometry>
@@ -1252,42 +1249,42 @@
         <mxCell id="tVC2MskHSsgyznJ84zAu-2" value="&lt;h6&gt;add in contnet around &#39;by clicking contiue you are agreeing details are correct&#39;&amp;nbsp;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="1660" y="129.99999999999991" width="105" height="39.44" as="geometry" />
         </mxCell>
-        <mxCell id="ROezJhRpc7j8K8PoUk-B-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3PJNPCHeUd-rgZYDl06C-97" source="ROezJhRpc7j8K8PoUk-B-1" target="tVC2MskHSsgyznJ84zAu-0">
+        <mxCell id="ROezJhRpc7j8K8PoUk-B-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3PJNPCHeUd-rgZYDl06C-97" source="ROezJhRpc7j8K8PoUk-B-1" target="tVC2MskHSsgyznJ84zAu-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ROezJhRpc7j8K8PoUk-B-1" value="Has the marriage broken down?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+        <mxCell id="ROezJhRpc7j8K8PoUk-B-1" value="Has the marriage broken down?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="700" y="75.87" width="90" height="54.13" as="geometry" />
         </mxCell>
-        <mxCell id="ROezJhRpc7j8K8PoUk-B-2" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+        <mxCell id="ROezJhRpc7j8K8PoUk-B-2" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="730" y="173.87" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ROezJhRpc7j8K8PoUk-B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3PJNPCHeUd-rgZYDl06C-97" source="ROezJhRpc7j8K8PoUk-B-1" target="ROezJhRpc7j8K8PoUk-B-2">
+        <mxCell id="ROezJhRpc7j8K8PoUk-B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3PJNPCHeUd-rgZYDl06C-97" source="ROezJhRpc7j8K8PoUk-B-1" target="ROezJhRpc7j8K8PoUk-B-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ROezJhRpc7j8K8PoUk-B-4" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+        <mxCell id="ROezJhRpc7j8K8PoUk-B-4" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="700" y="138.87" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ROezJhRpc7j8K8PoUk-B-5" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+        <mxCell id="ROezJhRpc7j8K8PoUk-B-5" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="780" y="75.86666666666679" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ROezJhRpc7j8K8PoUk-B-112" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Notification sent to applicant 1 solicitor&amp;nbsp;saying that applicant 2 solicitor&amp;nbsp;has not agreed &amp;amp; joint application ended&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+        <mxCell id="ROezJhRpc7j8K8PoUk-B-112" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Notification sent to applicant 1 solicitor&amp;nbsp;saying that applicant 2 solicitor&amp;nbsp;has not agreed &amp;amp; joint application ended&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="770" y="184.94" width="100" height="65.72" as="geometry" />
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-107" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-107" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="1610" y="41.63" width="70" height="28.37" as="geometry" />
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.373;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3PJNPCHeUd-rgZYDl06C-97" source="MSEFPUk9Gw3bi1AdGE-H-108" target="MSEFPUk9Gw3bi1AdGE-H-107">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.373;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3PJNPCHeUd-rgZYDl06C-97" source="MSEFPUk9Gw3bi1AdGE-H-108" target="MSEFPUk9Gw3bi1AdGE-H-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-121" value="Corrections needed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MSEFPUk9Gw3bi1AdGE-H-120">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-121" value="Corrections needed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MSEFPUk9Gw3bi1AdGE-H-120" vertex="1" connectable="0">
           <mxGeometry x="-0.2086" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-108" value="&lt;b&gt;Check app1 answers&lt;br&gt;&lt;/b&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-108" value="&lt;b&gt;Check app1 answers&lt;br&gt;&lt;/b&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="1340" y="65.12" width="90" height="54.13" as="geometry" />
         </mxCell>
-        <mxCell id="ROezJhRpc7j8K8PoUk-B-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3PJNPCHeUd-rgZYDl06C-97" source="MSEFPUk9Gw3bi1AdGE-H-108">
+        <mxCell id="ROezJhRpc7j8K8PoUk-B-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3PJNPCHeUd-rgZYDl06C-97" source="MSEFPUk9Gw3bi1AdGE-H-108" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1690" y="196.50499999999994" as="sourcePoint" />
             <mxPoint x="1830" y="186.37" as="targetPoint" />
@@ -1298,7 +1295,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-109" value="no corrections &lt;br&gt;needed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ROezJhRpc7j8K8PoUk-B-116">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-109" value="no corrections &lt;br&gt;needed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ROezJhRpc7j8K8PoUk-B-116" vertex="1" connectable="0">
           <mxGeometry x="-0.138" relative="1" as="geometry">
             <mxPoint x="37" y="-12" as="offset" />
           </mxGeometry>
@@ -1306,10 +1303,10 @@
         <mxCell id="okbv3gKBUmlBfdGlxbtn-2" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;If app 2 disagrees (e.g. marriage date wrong) need process to support&amp;nbsp;app1 correcting data &amp;amp; resending to app2 to complete the application&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="1380" y="-2.842170943040401e-14" width="150" height="62.22" as="geometry" />
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-2" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;case moves back intro draft state - basic notification sent to app1 solicitor&amp;nbsp;&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;App2 solicitor will call up app1 solicitor&amp;nbsp;to notify of them of the changes required&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-2" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;case moves back intro draft state - basic notification sent to app1 solicitor&amp;nbsp;&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;App2 solicitor will call up app1 solicitor&amp;nbsp;to notify of them of the changes required&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="1740" y="19.97" width="170" height="64.91" as="geometry" />
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-186" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Notification&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&amp;nbsp;to App2 sol to say you will be notified once case has been submitted&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-186" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Notification&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&amp;nbsp;to App2 sol to say you will be notified once case has been submitted&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="2240" y="203.87" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-134" value="Applicant 1 Solicitor" style="swimlane;html=1;startSize=40;horizontal=0;" parent="3PJNPCHeUd-rgZYDl06C-2" vertex="1">
@@ -1368,7 +1365,7 @@
         <mxCell id="3PJNPCHeUd-rgZYDl06C-259" value="Outstanding Questions for joint:&amp;nbsp;&lt;br&gt;&lt;br&gt;- should we be asking for HWF information first or will solicitors be aware of this? - HWF is required, mirror what is shown in div1&amp;nbsp;&lt;br&gt;&lt;br&gt;-&amp;nbsp;&lt;span style=&quot;font-size: 8px&quot;&gt;Tech question - how are the cases technically linked in ExUI?&lt;br&gt;&lt;br&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Can we retrieve these details &amp;amp; get them to confirm&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#FF0000;" parent="3PJNPCHeUd-rgZYDl06C-1" vertex="1">
           <mxGeometry x="-1000" y="380" width="430" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3PJNPCHeUd-rgZYDl06C-1" source="3PJNPCHeUd-rgZYDl06C-14">
+        <mxCell id="MSEFPUk9Gw3bi1AdGE-H-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3PJNPCHeUd-rgZYDl06C-1" source="3PJNPCHeUd-rgZYDl06C-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1690" y="230" as="targetPoint" />
           </mxGeometry>
