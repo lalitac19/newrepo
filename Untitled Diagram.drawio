@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T15:20:58.520Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="uFhUzP08aqBBYR2lSq9j" version="15.9.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-12-07T16:13:55.943Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="zZD66HJbbbrm3CqHv5iu" version="15.9.1" type="github" pages="9">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
     <mxGraphModel dx="3762" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1373,7 +1373,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Joint sol to LiP" id="-coHE3qTcxThFGqlGadL">
-    <mxGraphModel dx="3762" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4002" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="odDxTCk3I6vgrei-HBpC-0" />
         <mxCell id="odDxTCk3I6vgrei-HBpC-1" parent="odDxTCk3I6vgrei-HBpC-0" />
@@ -1555,6 +1555,9 @@
         <mxCell id="odDxTCk3I6vgrei-HBpC-56" value="&lt;span&gt;Review App2 answers&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=0" vertex="1" parent="odDxTCk3I6vgrei-HBpC-4">
           <mxGeometry x="2120" y="243" width="70" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="PMUOGlDEhR5_c4hZIEVM-4" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Here they can upload applicant 2 answers&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-4">
+          <mxGeometry x="1390" y="37" width="90" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="odDxTCk3I6vgrei-HBpC-62" value="&lt;b&gt;Applicant 2 Citizen (paper)&lt;/b&gt;" style="swimlane;html=1;startSize=40;horizontal=0;fontStyle=0" vertex="1" parent="odDxTCk3I6vgrei-HBpC-2">
           <mxGeometry y="410" width="6440" height="276.25" as="geometry" />
         </mxCell>
@@ -1568,38 +1571,24 @@
             <mxPoint x="1020" y="88.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odDxTCk3I6vgrei-HBpC-73" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;How will app 2 get sent the paper form?&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-62">
-          <mxGeometry x="60" y="121.88" width="100" height="43.63" as="geometry" />
-        </mxCell>
-        <mxCell id="Dj9sYmEfZJfrtOJzNUBK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="odDxTCk3I6vgrei-HBpC-62" source="Dj9sYmEfZJfrtOJzNUBK-1" target="Dj9sYmEfZJfrtOJzNUBK-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Dj9sYmEfZJfrtOJzNUBK-1" value="Receive paper form &amp;amp; copy of app1sol&amp;nbsp; answers" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-62">
-          <mxGeometry x="90" y="67.37" width="80" height="42.63" as="geometry" />
-        </mxCell>
         <mxCell id="PMUOGlDEhR5_c4hZIEVM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="odDxTCk3I6vgrei-HBpC-62" source="Dj9sYmEfZJfrtOJzNUBK-2" target="PMUOGlDEhR5_c4hZIEVM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dj9sYmEfZJfrtOJzNUBK-2" value="Complete paper form" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-62">
-          <mxGeometry x="260" y="67.37" width="100" height="42.63" as="geometry" />
+          <mxGeometry x="80" y="40" width="100" height="42.63" as="geometry" />
         </mxCell>
-        <mxCell id="Dj9sYmEfZJfrtOJzNUBK-4" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Will they email it? Or will this be done via excela&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-62">
-          <mxGeometry x="460" y="130" width="100" height="43.63" as="geometry" />
+        <mxCell id="Dj9sYmEfZJfrtOJzNUBK-4" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;How can they send back?&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-62">
+          <mxGeometry x="300" y="90" width="100" height="43.63" as="geometry" />
         </mxCell>
         <mxCell id="PMUOGlDEhR5_c4hZIEVM-0" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;What are the questions on the paper form?&amp;nbsp;&lt;/span&gt;&lt;/h6&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 8px&quot;&gt;&amp;nbsp;- same questions as app2sol shown on other joint joureny&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;direction=south;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-62">
-          <mxGeometry x="250" y="144.62" width="141.82" height="100.27" as="geometry" />
+          <mxGeometry x="70" y="90" width="141.82" height="100.27" as="geometry" />
         </mxCell>
-        <mxCell id="PMUOGlDEhR5_c4hZIEVM-2" value="Send back to App1Sol?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-62">
-          <mxGeometry x="430" y="67.37" width="100" height="42.63" as="geometry" />
+        <mxCell id="PMUOGlDEhR5_c4hZIEVM-2" value="Send back to App1Sol via email?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-62">
+          <mxGeometry x="250" y="40" width="100" height="42.63" as="geometry" />
         </mxCell>
         <mxCell id="odDxTCk3I6vgrei-HBpC-93" value="Caseworker" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-2">
           <mxGeometry y="686.25" width="6440" height="353.75" as="geometry">
             <mxRectangle y="440" width="2260" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="odDxTCk3I6vgrei-HBpC-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="odDxTCk3I6vgrei-HBpC-2" source="odDxTCk3I6vgrei-HBpC-12" target="Dj9sYmEfZJfrtOJzNUBK-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="645" y="433" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="odDxTCk3I6vgrei-HBpC-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="odDxTCk3I6vgrei-HBpC-2">
