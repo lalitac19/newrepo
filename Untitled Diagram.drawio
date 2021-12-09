@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T12:27:39.314Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="zeLFEq1hXZvRufrDJXDz" version="15.9.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-12-09T12:46:21.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="PpG14P06_8Zu-YB1R7tO" version="15.9.1" type="github" pages="9">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
     <mxGraphModel dx="4002" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1361,7 +1361,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Joint sol to LiP" id="-coHE3qTcxThFGqlGadL">
-    <mxGraphModel dx="4187" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3791" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="odDxTCk3I6vgrei-HBpC-0" />
         <mxCell id="odDxTCk3I6vgrei-HBpC-1" parent="odDxTCk3I6vgrei-HBpC-0" />
@@ -1394,7 +1394,7 @@
         <mxCell id="odDxTCk3I6vgrei-HBpC-11" value="How do you want to apply for a divorce?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="odDxTCk3I6vgrei-HBpC-4" vertex="1">
           <mxGeometry x="140" y="53.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="odDxTCk3I6vgrei-HBpC-12" value="&lt;b&gt;Event:&lt;/b&gt;&lt;br&gt;case created&lt;br&gt;&lt;b&gt;state:&lt;/b&gt;&amp;nbsp;&lt;br&gt;Draft" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="odDxTCk3I6vgrei-HBpC-4" vertex="1">
+        <mxCell id="odDxTCk3I6vgrei-HBpC-12" value="&lt;b&gt;Event:&lt;/b&gt;&lt;br&gt;case created&lt;br&gt;&lt;b&gt;state:&lt;/b&gt;&amp;nbsp;&lt;br&gt;AwaitingApplicant2Response" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="odDxTCk3I6vgrei-HBpC-4" vertex="1">
           <mxGeometry x="1830" y="103.25" width="130" height="46.75" as="geometry" />
         </mxCell>
         <mxCell id="odDxTCk3I6vgrei-HBpC-15" value="Applicant 1 details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="odDxTCk3I6vgrei-HBpC-4" vertex="1">
@@ -1524,6 +1524,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1810" y="150" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="45B3P-39hTGqQEJMg4p_-0" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;PDF generated for draft application&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-4">
+          <mxGeometry x="1900" y="42.66" width="70" height="37.34" as="geometry" />
+        </mxCell>
+        <mxCell id="45B3P-39hTGqQEJMg4p_-1" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Notification should go out to applicant 2 inviting&amp;nbsp;them to case&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-4">
+          <mxGeometry x="1910" y="161.06" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-yr7WrKr9gmf8lKEF_VB-1" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Still ask for HWF for both applicants&amp;nbsp;&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-4">
+          <mxGeometry x="2300" y="199.99999999999994" width="70" height="40.33" as="geometry" />
         </mxCell>
         <mxCell id="odDxTCk3I6vgrei-HBpC-62" value="&lt;b&gt;Applicant 2 Citizen (digital)&lt;/b&gt;" style="swimlane;html=1;startSize=40;horizontal=0;fontStyle=0" parent="odDxTCk3I6vgrei-HBpC-2" vertex="1">
           <mxGeometry y="410" width="6440" height="276.25" as="geometry" />
@@ -1664,6 +1673,15 @@
         </mxCell>
         <mxCell id="hhZRt7qDoqjH4ku1Ptfw-0" value="Not confirmed joint app" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-62">
           <mxGeometry x="510" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="45B3P-39hTGqQEJMg4p_-2" value="&lt;span style=&quot;font-size: 8px&quot;&gt;What if app2 is Welsh and app1 is represented? &lt;br&gt;Can we take out welsh for joint apps?&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-62">
+          <mxGeometry x="80" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-yr7WrKr9gmf8lKEF_VB-0" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;If they disagree - then&amp;nbsp; citizen has ability to enter in comments back - are we going to have this for the sol soide? will it be technically complex? What ohter ways can we implemet?&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-62">
+          <mxGeometry x="1400" y="178.62" width="150" height="62.22" as="geometry" />
+        </mxCell>
+        <mxCell id="-yr7WrKr9gmf8lKEF_VB-2" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Can we take this out if app1 is solicitor? Don&#39;t need&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="odDxTCk3I6vgrei-HBpC-62">
+          <mxGeometry x="600" y="148.44999999999993" width="70" height="40.33" as="geometry" />
         </mxCell>
         <mxCell id="odDxTCk3I6vgrei-HBpC-93" value="Caseworker" style="swimlane;html=1;startSize=40;horizontal=0;" parent="odDxTCk3I6vgrei-HBpC-2" vertex="1">
           <mxGeometry y="686.25" width="6440" height="353.75" as="geometry">
@@ -2064,7 +2082,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Joint solicitors - CO" id="zDZvSUZhLyXjI66MWQQM">
-    <mxGraphModel dx="4091" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3635" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="c8gu8YVeUBE0fCfZA-6u-0" />
         <mxCell id="c8gu8YVeUBE0fCfZA-6u-1" parent="c8gu8YVeUBE0fCfZA-6u-0" />
@@ -2501,7 +2519,7 @@
           <mxGeometry x="320" y="123" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="c8gu8YVeUBE0fCfZA-6u-133" value="Enter in details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="c8gu8YVeUBE0fCfZA-6u-129" vertex="1">
-          <mxGeometry x="210" y="120" width="70" height="40" as="geometry" />
+          <mxGeometry x="190" y="119.87" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c8gu8YVeUBE0fCfZA-6u-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;" parent="c8gu8YVeUBE0fCfZA-6u-129" source="c8gu8YVeUBE0fCfZA-6u-131" target="c8gu8YVeUBE0fCfZA-6u-133" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2513,7 +2531,7 @@
           <mxGeometry x="380" y="82.99999999999999" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c8gu8YVeUBE0fCfZA-6u-136" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Both solicitors will need to login &amp;amp; acknowledge&amp;nbsp;receipt&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;fillColor=#FFFFCC;spacingRight=10;" parent="c8gu8YVeUBE0fCfZA-6u-129" vertex="1">
-          <mxGeometry x="600" y="151.82" width="90" height="80" as="geometry" />
+          <mxGeometry x="600" y="151.82" width="90" height="48.18" as="geometry" />
         </mxCell>
         <mxCell id="c8gu8YVeUBE0fCfZA-6u-137" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Assuming No solicitor service for joint&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="c8gu8YVeUBE0fCfZA-6u-129" vertex="1">
           <mxGeometry x="290" y="183" width="100" height="60" as="geometry" />
@@ -2869,7 +2887,7 @@
           <mxGeometry x="705" y="116.25" width="70" height="27" as="geometry" />
         </mxCell>
         <mxCell id="c8gu8YVeUBE0fCfZA-6u-229" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;notifications to go to both app solicitors to invite to apply to conditional order&amp;nbsp;&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="c8gu8YVeUBE0fCfZA-6u-220" vertex="1">
-          <mxGeometry x="775" y="253.25" width="100" height="60" as="geometry" />
+          <mxGeometry x="730" y="246.25" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c8gu8YVeUBE0fCfZA-6u-230" value="&lt;b&gt;Both applicant invited to apply for CO&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="c8gu8YVeUBE0fCfZA-6u-220" vertex="1">
           <mxGeometry x="700" y="198.25" width="80" height="55" as="geometry" />
