@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T11:59:54.912Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="qw0GgfPzYNnq-Z_xO70K" version="15.9.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-12-09T12:23:55.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="PVEZX1YWggIEhaxfI1iT" version="15.9.1" type="github" pages="9">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
     <mxGraphModel dx="4002" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -995,7 +995,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Joint sol to sol application" id="G1zOZyjJlgcDFVAlR0I8">
-    <mxGraphModel dx="4002" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4155" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-0" />
         <mxCell id="3PJNPCHeUd-rgZYDl06C-1" parent="3PJNPCHeUd-rgZYDl06C-0" />
@@ -1074,7 +1074,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-25" value="Applicant 2 details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
-          <mxGeometry x="650" y="92.25" width="60" height="37" as="geometry" />
+          <mxGeometry x="680" y="92.25" width="60" height="37" as="geometry" />
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="3PJNPCHeUd-rgZYDl06C-3" source="3PJNPCHeUd-rgZYDl06C-17" target="3PJNPCHeUd-rgZYDl06C-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1126,7 +1126,7 @@
         <mxCell id="3PJNPCHeUd-rgZYDl06C-44" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Assuming that the app2 sol will already be registered with MyHMCTS&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
           <mxGeometry x="890" y="144.81" width="70" height="58.5" as="geometry" />
         </mxCell>
-        <mxCell id="3PJNPCHeUd-rgZYDl06C-45" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Notification triggered to invite applicant 2 solicitor to confirm details&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
+        <mxCell id="3PJNPCHeUd-rgZYDl06C-45" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Notification triggered to the firm CAA&amp;nbsp; solicitor to confirm details&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
           <mxGeometry x="1940" y="65.74999999999999" width="70" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-46" value="&lt;span&gt;Confirm SOT and reconciliation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=0" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
@@ -1150,7 +1150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-87" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Ability to update application before submitting - same as solicitor sole&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
-          <mxGeometry x="1730" y="60.410000000000004" width="80" height="43.09" as="geometry" />
+          <mxGeometry x="1700" y="60.00000000000001" width="80" height="43.09" as="geometry" />
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-88" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;app1 will answer these questions for applicant 2 but not for financial order or irretrievable&amp;nbsp;breakdown&amp;nbsp;&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
           <mxGeometry x="1150" y="168.75" width="330" height="31.83" as="geometry" />
@@ -1161,8 +1161,8 @@
         <mxCell id="okbv3gKBUmlBfdGlxbtn-4" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;This would be normal submit event ( same as sole)&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
           <mxGeometry x="1980" y="203.30999999999995" width="70" height="40.33" as="geometry" />
         </mxCell>
-        <mxCell id="okbv3gKBUmlBfdGlxbtn-58" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;HWF - need to include this for app2&amp;nbsp;&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
-          <mxGeometry x="2200" y="285" width="100" height="40" as="geometry" />
+        <mxCell id="okbv3gKBUmlBfdGlxbtn-58" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;If&amp;nbsp; HWF for both applicants then display 2 boxes - app1 HWF &amp;amp; app2 HWF ref&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
+          <mxGeometry x="2200" y="285" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="MSEFPUk9Gw3bi1AdGE-H-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="3PJNPCHeUd-rgZYDl06C-3" source="MSEFPUk9Gw3bi1AdGE-H-123" target="3PJNPCHeUd-rgZYDl06C-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1177,7 +1177,7 @@
           <mxGeometry x="1780" y="156.75" width="60" height="34.62" as="geometry" />
         </mxCell>
         <mxCell id="MSEFPUk9Gw3bi1AdGE-H-185" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Appl1 solicitor &amp;amp; app2 solicitor&amp;nbsp;will be notified&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
-          <mxGeometry x="2300" y="173.75" width="80" height="50" as="geometry" />
+          <mxGeometry x="2330" y="170" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QGG1WqIdRfUrcZdyuLKA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3PJNPCHeUd-rgZYDl06C-3" source="QGG1WqIdRfUrcZdyuLKA-0" target="3PJNPCHeUd-rgZYDl06C-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1185,7 +1185,10 @@
         <mxCell id="QGG1WqIdRfUrcZdyuLKA-0" value="&lt;span&gt;Review App2 answers&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=0" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
           <mxGeometry x="1920" y="248" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="3PJNPCHeUd-rgZYDl06C-90" value="Applicant 2&lt;br&gt;Organisation &lt;br&gt;Administrator&amp;nbsp;" style="swimlane;html=1;startSize=40;horizontal=0;" parent="3PJNPCHeUd-rgZYDl06C-2" vertex="1">
+        <mxCell id="75dazM1N0IfcFPhmgp7v-2" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Divorce application will be generated &amp;amp; added to docs tab&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-3">
+          <mxGeometry x="1890" y="10.409999999999997" width="80" height="43.09" as="geometry" />
+        </mxCell>
+        <mxCell id="3PJNPCHeUd-rgZYDl06C-90" value="App2 Solicitor CAA" style="swimlane;html=1;startSize=40;horizontal=0;" parent="3PJNPCHeUd-rgZYDl06C-2" vertex="1">
           <mxGeometry y="410" width="6440" height="142.22" as="geometry" />
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3PJNPCHeUd-rgZYDl06C-90" source="3PJNPCHeUd-rgZYDl06C-92" target="3PJNPCHeUd-rgZYDl06C-93" edge="1">
@@ -1313,7 +1316,10 @@
         <mxCell id="75dazM1N0IfcFPhmgp7v-1" value="&lt;br&gt;&lt;b&gt;To state: &lt;br&gt;AwaitingApplicant1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
           <mxGeometry x="1750" y="34.63000000000011" width="110" height="35.37" as="geometry" />
         </mxCell>
-        <mxCell id="3PJNPCHeUd-rgZYDl06C-134" value="Applicant 1 Solicitor" style="swimlane;html=1;startSize=40;horizontal=0;" parent="3PJNPCHeUd-rgZYDl06C-2" vertex="1">
+        <mxCell id="75dazM1N0IfcFPhmgp7v-3" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Generate PDF for app2 answers&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+          <mxGeometry x="2200" y="82.76999999999987" width="70" height="40.33" as="geometry" />
+        </mxCell>
+        <mxCell id="3PJNPCHeUd-rgZYDl06C-134" value="Caseworker" style="swimlane;html=1;startSize=40;horizontal=0;" parent="3PJNPCHeUd-rgZYDl06C-2" vertex="1">
           <mxGeometry y="828.47" width="6440" height="353.75" as="geometry">
             <mxRectangle y="440" width="2260" height="40" as="alternateBounds" />
           </mxGeometry>
