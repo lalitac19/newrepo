@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T08:57:25.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="YkqoJPJ8I5IfIJEyA-yy" version="15.9.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-12-21T08:57:46.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="X5gHDHe8e2-13MC_Y50Q" version="15.9.1" type="github" pages="11">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
     <mxGraphModel dx="4716" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1492,12 +1492,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rNw9qaZBMHgX9FFlJCg4-3" value="System" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-2">
-          <mxGeometry y="1160" width="6440" height="331.53" as="geometry">
+          <mxGeometry y="1160" width="6440" height="180" as="geometry">
             <mxRectangle y="440" width="2260" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rNw9qaZBMHgX9FFlJCg4-4" value="&lt;b&gt;Stste:&lt;/b&gt;&lt;br&gt;20 week holding" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="rNw9qaZBMHgX9FFlJCg4-3">
-          <mxGeometry x="510" y="147.26999999999998" width="70" height="37" as="geometry" />
+          <mxGeometry x="510" y="71.49999999999999" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-257" value="&lt;span style=&quot;font-size: 18px&quot;&gt;NFD Joint Divorce - Different Solicitors Representing both Applicants&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" parent="3PJNPCHeUd-rgZYDl06C-1" vertex="1">
           <mxGeometry x="-120" y="20" width="6440" height="40" as="geometry" />
