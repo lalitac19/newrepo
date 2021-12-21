@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T09:07:04.874Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="y4I9QCoj16SMVll1cE0u" version="15.9.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-12-21T09:08:39.400Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="jvRTAxKEqg7ZLzDVeDID" version="15.9.1" type="github" pages="11">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
     <mxGraphModel dx="4716" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1977,9 +1977,6 @@
         </mxCell>
         <mxCell id="odDxTCk3I6vgrei-HBpC-105" value="Outstanding Questions for joint:&amp;nbsp;&lt;br&gt;&lt;br&gt;- should we be asking for HWF information first or will solicitors be aware of this? - HWF is required, mirror what is shown in div1&amp;nbsp;&lt;br&gt;&lt;br&gt;-&amp;nbsp;&lt;span style=&quot;font-size: 8px&quot;&gt;Tech question - how are the cases technically linked in ExUI?&lt;br&gt;&lt;br&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Can we retrieve these details &amp;amp; get them to confirm&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#FF0000;" parent="odDxTCk3I6vgrei-HBpC-1" vertex="1">
           <mxGeometry x="-1000" y="380" width="430" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="2G0kI-Q9_KzzosKJf6ES-25" value="&lt;span style=&quot;font-size: 8px&quot;&gt;this will use the same functionality as the citizen side&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="odDxTCk3I6vgrei-HBpC-1" vertex="1">
-          <mxGeometry x="300" y="680" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
