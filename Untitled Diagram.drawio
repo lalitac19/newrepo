@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T17:20:23.283Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="MPtxn27EYLXSqe17PS1P" version="16.4.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-02-04T17:20:52.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="MKHGKJk18psFwck-5ijR" version="16.4.5" type="github" pages="11">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
     <mxGraphModel dx="4242" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1118,7 +1118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Joint sol to sol application" id="G1zOZyjJlgcDFVAlR0I8">
-    <mxGraphModel dx="4242" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="9960" dy="3556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-0" />
         <mxCell id="3PJNPCHeUd-rgZYDl06C-1" parent="3PJNPCHeUd-rgZYDl06C-0" />
@@ -2003,7 +2003,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9hJo06cWPht1VJ5MfKED-239" value="Judge" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-2">
-          <mxGeometry y="2265.44" width="10640" height="690" as="geometry">
+          <mxGeometry y="2265.44" width="10640" height="214.56" as="geometry">
             <mxRectangle y="440" width="2260" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2011,10 +2011,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9hJo06cWPht1VJ5MfKED-0" value="Pronounces cases" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="9hJo06cWPht1VJ5MfKED-239">
-          <mxGeometry x="6160" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="6150" y="84.56" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9hJo06cWPht1VJ5MfKED-5" value="Judge emails back to caseworker after pronouncement" style="html=1;whiteSpace=wrap;;fontSize=11;fontColor=#000000;spacing=5;strokeOpacity=100;strokeWidth=1.2;" vertex="1" parent="9hJo06cWPht1VJ5MfKED-239">
-          <mxGeometry x="6380" y="273.0000000000002" width="120" height="57" as="geometry" />
+          <mxGeometry x="6370" y="87.56000000000023" width="120" height="57" as="geometry" />
         </mxCell>
         <mxCell id="9hJo06cWPht1VJ5MfKED-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="3PJNPCHeUd-rgZYDl06C-2" source="9hJo06cWPht1VJ5MfKED-5" target="9hJo06cWPht1VJ5MfKED-8">
           <mxGeometry relative="1" as="geometry">
