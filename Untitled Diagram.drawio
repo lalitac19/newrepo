@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T17:20:52.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="MKHGKJk18psFwck-5ijR" version="16.4.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-02-21T14:24:11.734Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="1O1w3UHmmD4Modx6ZUHu" version="16.4.5" type="github" pages="11">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
-    <mxGraphModel dx="4242" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4454" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="wyB5MmASiWUWbdZRvzDF-0" />
         <mxCell id="wyB5MmASiWUWbdZRvzDF-1" parent="wyB5MmASiWUWbdZRvzDF-0" />
@@ -998,7 +998,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="General Application for sol" id="c0GHXYx89F83kTPTvvTI">
-    <mxGraphModel dx="3527" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3527" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="9Uuqydl4qBPp9DHdraST-0" />
         <mxCell id="9Uuqydl4qBPp9DHdraST-1" parent="9Uuqydl4qBPp9DHdraST-0" />
@@ -1118,7 +1118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Joint sol to sol application" id="G1zOZyjJlgcDFVAlR0I8">
-    <mxGraphModel dx="9960" dy="3556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="9960" dy="3212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-0" />
         <mxCell id="3PJNPCHeUd-rgZYDl06C-1" parent="3PJNPCHeUd-rgZYDl06C-0" />
@@ -2115,7 +2115,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Joint sol to LiP" id="-coHE3qTcxThFGqlGadL">
-    <mxGraphModel dx="3527" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3993" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="odDxTCk3I6vgrei-HBpC-0" />
         <mxCell id="odDxTCk3I6vgrei-HBpC-1" parent="odDxTCk3I6vgrei-HBpC-0" />
@@ -2579,7 +2579,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NEW DRAFT Sol to LIP" id="STX0kHk7YQ91Knv5nzMk">
-    <mxGraphModel dx="4242" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4242" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="6Sa6imBf22etZvELbabb-0" />
         <mxCell id="6Sa6imBf22etZvELbabb-1" parent="6Sa6imBf22etZvELbabb-0" />
@@ -2943,7 +2943,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Joint solicitors - CO" id="zDZvSUZhLyXjI66MWQQM">
-    <mxGraphModel dx="5059" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4342" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="c8gu8YVeUBE0fCfZA-6u-0" />
         <mxCell id="c8gu8YVeUBE0fCfZA-6u-1" parent="c8gu8YVeUBE0fCfZA-6u-0" />
@@ -3895,7 +3895,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Version 2" id="nQHIjJ00qOdgUZHb1sVd">
-    <mxGraphModel dx="4242" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4242" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="7lcmzybEbt88RY2W8Mvn-0" />
         <mxCell id="7lcmzybEbt88RY2W8Mvn-1" parent="7lcmzybEbt88RY2W8Mvn-0" />
@@ -4675,7 +4675,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Application" id="mMytG87F4Xnvh5kiCfYU">
-    <mxGraphModel dx="4242" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4242" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="5-peSpihtjcUooD-_JAq-0" />
         <mxCell id="5-peSpihtjcUooD-_JAq-1" parent="5-peSpihtjcUooD-_JAq-0" />
@@ -5451,74 +5451,39 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Version 1" id="k3Jd0ISuG4yfQMjMCZCH">
-    <mxGraphModel dx="1906" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2006" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2b4e8129b02d487f-1" value="Petitioner solicitor finds respondent solicitor firm from the organisation search and nominates. Optionally,&amp;nbsp; a co-respondent solicitor is nominated. Respondent solicitor&#39;s CAA shares case with solicitor(s) who complete the AOS. If applicable, co-respondent solicitor&#39;s CAA shares case with solicitor(s) who complete the co-respondent&#39;s AOS." style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="60" width="2140" height="493.5" as="geometry" />
+        <mxCell id="2b4e8129b02d487f-1" value="Sole - solciitor apply for divorce/ dissolution and caseworker issuing case. Includes solicitor service process too" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="60" width="2280" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="2b4e8129b02d487f-2" value="Petitioner solicitor" style="swimlane;html=1;startSize=30;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
-          <mxGeometry y="20" width="2140" height="183.5" as="geometry" />
+        <mxCell id="2b4e8129b02d487f-2" value="Applicant solicitor" style="swimlane;html=1;startSize=30;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
+          <mxGeometry y="20" width="2280" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-6" target="_krw7o2FG_3SmGjkz55r-9" edge="1">
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-6" target="rknWa3BTTEoNBZ9uIA_q-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2b4e8129b02d487f-6" value="&lt;b&gt;Start event:&lt;/b&gt;&lt;br&gt;&amp;nbsp;Apply for divorce" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="40" y="76.49999999999997" width="70" height="37" as="geometry" />
+        <mxCell id="2b4e8129b02d487f-6" value="&lt;b&gt;Start event:&lt;/b&gt;&lt;br&gt;&amp;nbsp;Apply: Divorce or dissolution" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
+          <mxGeometry x="40" y="56.49999999999997" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-9" target="_krw7o2FG_3SmGjkz55r-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2b4e8129b02d487f-9" value="Lookup respondent solicitor org details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="350" y="76.49999999999997" width="70" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-9" target="_krw7o2FG_3SmGjkz55r-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-9" value="Search for &#39;my organisation&#39; details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="130" y="76.49999999999997" width="70" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-21" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-10" target="2b4e8129b02d487f-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-28" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-10" target="_krw7o2FG_3SmGjkz55r-13" edge="1">
+        <mxCell id="_krw7o2FG_3SmGjkz55r-28" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" target="_krw7o2FG_3SmGjkz55r-13" edge="1">
           <mxGeometry x="-0.668" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="140" />
               <mxPoint x="585" y="140" />
             </Array>
             <mxPoint as="offset" />
+            <mxPoint x="270" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-10" value="Is the &lt;br&gt;respondent represented?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="230" y="70" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-12" target="_krw7o2FG_3SmGjkz55r-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-55" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_krw7o2FG_3SmGjkz55r-25" vertex="1" connectable="0">
-          <mxGeometry x="-0.3287" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-12" value="Able to find respondent solicitor org?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="440" y="70" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-15" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;There is no way of automating this info. The solicitor will still need to manually enter their address&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="120" y="4" width="90" height="66.5" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-27" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-16" target="_krw7o2FG_3SmGjkz55r-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="95" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-16" target="_krw7o2FG_3SmGjkz55r-31" edge="1">
+        <mxCell id="_krw7o2FG_3SmGjkz55r-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" target="_krw7o2FG_3SmGjkz55r-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="790" y="150" />
               <mxPoint x="1415" y="150" />
             </Array>
+            <mxPoint x="790" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_krw7o2FG_3SmGjkz55r-54" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_krw7o2FG_3SmGjkz55r-53" vertex="1" connectable="0">
@@ -5526,159 +5491,173 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-16" value="is there a co-respondent?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="750" y="70" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-17" target="_krw7o2FG_3SmGjkz55r-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_krw7o2FG_3SmGjkz55r-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" target="_krw7o2FG_3SmGjkz55r-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="120" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_krw7o2FG_3SmGjkz55r-40" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_krw7o2FG_3SmGjkz55r-39" vertex="1" connectable="0">
           <mxGeometry x="-0.7558" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-17" target="_krw7o2FG_3SmGjkz55r-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-63" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_krw7o2FG_3SmGjkz55r-41" vertex="1" connectable="0">
-          <mxGeometry x="-0.3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-2" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" target="rknWa3BTTEoNBZ9uIA_q-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="728" y="81.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-17" value="Is &lt;br&gt;co-respondent represented?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="870" y="70" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-18" target="_krw7o2FG_3SmGjkz55r-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-18" value="Lookup co-respondent solicitor org details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="990" y="76.49999999999997" width="70" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-13" target="_krw7o2FG_3SmGjkz55r-109" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-13" value="Enter respondent service address" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="550" y="76.49999999999997" width="70" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-23" target="_krw7o2FG_3SmGjkz55r-24" edge="1">
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-3" target="rknWa3BTTEoNBZ9uIA_q-95">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1120" y="50" />
-              <mxPoint x="1235" y="50" />
+              <mxPoint x="698" y="198" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-56" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_krw7o2FG_3SmGjkz55r-43" vertex="1" connectable="0">
-          <mxGeometry x="-0.8882" y="1" relative="1" as="geometry">
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-101" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rknWa3BTTEoNBZ9uIA_q-98">
+          <mxGeometry x="0.3602" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-23" target="_krw7o2FG_3SmGjkz55r-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-3" value="Is the &lt;br&gt;respondent represented?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="658" y="58.25" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-45" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_krw7o2FG_3SmGjkz55r-44" vertex="1" connectable="0">
-          <mxGeometry x="-0.3034" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-5" value="&lt;b&gt;Event&lt;/b&gt;: Apply: Divorce or dissolution&lt;br&gt;&lt;b&gt;State: draft&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="1518" y="50" width="90" height="48.25" as="geometry" />
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-23" value="Able to &lt;br&gt;find co-respondent solicitor org?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="1080" y="70" width="80" height="50" as="geometry" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-7" value="&lt;b&gt;Start event:&lt;/b&gt;&lt;br&gt;&amp;nbsp;Sign and Submit" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="1670" y="48.25" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-24" target="_krw7o2FG_3SmGjkz55r-111" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-24" value="Enter co-respondent service address" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="1200" y="76.49999999999997" width="70" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-31" target="_krw7o2FG_3SmGjkz55r-33" edge="1">
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-5" target="rknWa3BTTEoNBZ9uIA_q-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1380.0000000000002" y="95" as="targetPoint" />
+            <mxPoint x="1668.0000000000002" y="-26.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-31" value="&lt;b&gt;Finish event:&lt;/b&gt;&lt;br&gt;&amp;nbsp;Apply for divorce&lt;br&gt;&lt;b&gt;To state:&lt;/b&gt;&lt;br&gt;SOTAgreement&lt;br&gt;PayAndSubmit&lt;br&gt;Required" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="1380" y="60" width="70" height="70" as="geometry" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-9" value="&lt;span&gt;Confirm SOT and reconciliation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=0" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="1790" y="46.74999999999997" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-33" target="_krw7o2FG_3SmGjkz55r-34" edge="1">
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-7" target="rknWa3BTTEoNBZ9uIA_q-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-33" value="&lt;b&gt;Start event:&lt;/b&gt;&lt;br&gt;&amp;nbsp;Amend divorce application" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="1480" y="76.49999999999997" width="70" height="37" as="geometry" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-11" value="&lt;span&gt;Enter &#39;your name&#39; and &#39;name of firm&#39;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=0" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="1900" y="46.74999999999997" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-34" target="_krw7o2FG_3SmGjkz55r-35" edge="1">
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-9" target="rknWa3BTTEoNBZ9uIA_q-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-34" value="&lt;span&gt;Enter service method required&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=0" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="1570" y="76.49999999999997" width="70" height="37" as="geometry" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-12" value="&lt;b&gt;Event:&amp;nbsp;&lt;/b&gt;&lt;br&gt;&amp;nbsp; Sign and Submit&lt;br&gt;&lt;b&gt;state:&lt;/b&gt;&amp;nbsp;&lt;b&gt;Submitted&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="2170" y="30.25" width="92" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-35" target="_krw7o2FG_3SmGjkz55r-36" edge="1">
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-11" target="rknWa3BTTEoNBZ9uIA_q-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-35" value="&lt;span&gt;Confirm SOT and reconciliation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=0" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="1670" y="76.49999999999997" width="70" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-36" target="_krw7o2FG_3SmGjkz55r-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-36" value="&lt;span&gt;Enter &#39;your name&#39; and &#39;name of firm&#39;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=0" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="1770" y="76.49999999999997" width="70" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-38" value="&lt;b&gt;Finish event:&lt;/b&gt;&lt;br&gt;&amp;nbsp;Amend divorce application&lt;br&gt;&lt;b&gt;To state:&lt;/b&gt;&amp;nbsp;Submitted" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="1880" y="68.25" width="70" height="53.5" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-57" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Are digital co-respondents in scope?&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="920" y="6.5" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5xeZqOf08oSWxwelz_sC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-109" target="_krw7o2FG_3SmGjkz55r-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-109" value="&lt;span&gt;Enter respondent solicitor email&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=0" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="650" y="76.49999999999997" width="70" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-111" target="_krw7o2FG_3SmGjkz55r-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-111" value="Enter co-respondent solicitor email" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="1290" y="76.49999999999997" width="70" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-135" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Should there be the ability to nominate an unregistered respondent solicitor?&lt;/span&gt;&lt;br&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="1040" y="121.75" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="2b4e8129b02d487f-2" source="_krw7o2FG_3SmGjkz55r-12" edge="1">
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-14" target="rknWa3BTTEoNBZ9uIA_q-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="495" y="70" as="sourcePoint" />
-            <mxPoint x="590" y="77" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="480" y="50" />
-              <mxPoint x="590" y="50" />
-              <mxPoint x="590" y="77" />
-            </Array>
+            <mxPoint x="888" y="81.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-29" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_krw7o2FG_3SmGjkz55r-26" vertex="1" connectable="0">
-          <mxGeometry x="-0.5803" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-14" value="Enter respondent solicitor details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="778" y="63.24999999999997" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-16" value="Search for &#39;my organisation&#39; details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="268" y="49.99999999999997" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-18" target="rknWa3BTTEoNBZ9uIA_q-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-18" value="How do you want to apply for a divorce?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="148" y="43.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-19" value="Sole" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="218" y="43.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-21" value="Applicant details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="488" y="43.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5xeZqOf08oSWxwelz_sC-5" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;The lookup does not return the address details to the case, so these still need to be entered&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="520" y="4" width="80" height="60" as="geometry" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-24" target="rknWa3BTTEoNBZ9uIA_q-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5xeZqOf08oSWxwelz_sC-7" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;This is still required, as no email address is returned from organisation look-up&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="640" y="6.5" width="80" height="60" as="geometry" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-24" value="Has the marriage broken down?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="358" y="37" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5xeZqOf08oSWxwelz_sC-8" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;The lookup does not return the address details to the case, so these still need to be entered&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="1150" y="4" width="80" height="60" as="geometry" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-16" target="rknWa3BTTEoNBZ9uIA_q-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5xeZqOf08oSWxwelz_sC-62" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Can / should the petitioner solicitor be able&amp;nbsp; to proceed if they cannot find the respondent sol on the search?&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="340" y="117" width="100" height="60" as="geometry" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-25" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="358" y="100" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5xeZqOf08oSWxwelz_sC-69" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;May be possible to copy across name and organisation so that user does not need to enter again (and then add a tickbox)&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="1755" y="16.5" width="100" height="53.5" as="geometry" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-26" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="438" y="36.99666666666673" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="p6Xr37g33TZ3pclMuA7w-15" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;Potentially can be automated? Further conversation,&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#dae8fc;spacingRight=10;strokeColor=#6c8ebf;" parent="2b4e8129b02d487f-2" vertex="1">
-          <mxGeometry x="120" y="117" width="90" height="53" as="geometry" />
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-28" target="rknWa3BTTEoNBZ9uIA_q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-28" value="Other party details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="568" y="43.5" width="60" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-21" target="rknWa3BTTEoNBZ9uIA_q-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-30" value="Marriage certificate details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="898" y="63" width="60" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-32" value="Jurisdiction details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="998" y="58.25" width="60" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-30" target="rknWa3BTTEoNBZ9uIA_q-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-34" value="Other legal proceedings" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="1108" y="57" width="60" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-32" target="rknWa3BTTEoNBZ9uIA_q-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-36" value="Financial Order" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="1220" y="58.25" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-34" target="rknWa3BTTEoNBZ9uIA_q-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-38" target="rknWa3BTTEoNBZ9uIA_q-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-38" value="Upload Docs" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="1300" y="58.25" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-36" target="rknWa3BTTEoNBZ9uIA_q-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-40" target="rknWa3BTTEoNBZ9uIA_q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-40" value="Payment information" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="2060" y="50" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-42" target="rknWa3BTTEoNBZ9uIA_q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-42" value="Check your answers" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="1400" y="56.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="rknWa3BTTEoNBZ9uIA_q-95" target="rknWa3BTTEoNBZ9uIA_q-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-95" value="Enter respondent details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="790" y="169.99999999999997" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-106" value="&lt;b&gt;See joint process map&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="188" y="200" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-107" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="383" y="140" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-3" value="Caseworker" style="swimlane;html=1;startSize=30;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
-          <mxGeometry y="203.5" width="2140" height="150" as="geometry" />
+          <mxGeometry y="270" width="2280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="_krw7o2FG_3SmGjkz55r-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="2b4e8129b02d487f-3" source="2b4e8129b02d487f-12" target="_krw7o2FG_3SmGjkz55r-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -5703,7 +5682,7 @@
         <mxCell id="_krw7o2FG_3SmGjkz55r-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-3" source="_krw7o2FG_3SmGjkz55r-58" target="_krw7o2FG_3SmGjkz55r-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5xeZqOf08oSWxwelz_sC-10" value="Personal &lt;br&gt;service" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_krw7o2FG_3SmGjkz55r-70" vertex="1" connectable="0">
+        <mxCell id="5xeZqOf08oSWxwelz_sC-10" value="Solicitor Service" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_krw7o2FG_3SmGjkz55r-70" vertex="1" connectable="0">
           <mxGeometry x="-0.1232" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -5753,7 +5732,7 @@
           <mxGeometry x="600" y="90" width="110" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-4" value="Respondent &lt;br&gt;Organisation Administrator&amp;nbsp;" style="swimlane;html=1;startSize=30;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
-          <mxGeometry y="353.5" width="2140" height="140" as="geometry" />
+          <mxGeometry y="420" width="2280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="p6Xr37g33TZ3pclMuA7w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-4" source="2b4e8129b02d487f-14" target="p6Xr37g33TZ3pclMuA7w-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -5772,14 +5751,6 @@
         </mxCell>
         <mxCell id="_krw7o2FG_3SmGjkz55r-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-1" source="_krw7o2FG_3SmGjkz55r-71" target="2b4e8129b02d487f-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5xeZqOf08oSWxwelz_sC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-1" source="_krw7o2FG_3SmGjkz55r-38" target="2b4e8129b02d487f-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1915" y="210" />
-              <mxPoint x="75" y="210" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="_krw7o2FG_3SmGjkz55r-1" value="Respondent solicitor(s)" style="swimlane;html=1;startSize=30;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="550" width="2140" height="150" as="geometry" />
@@ -5942,7 +5913,7 @@
         <mxCell id="p6Xr37g33TZ3pclMuA7w-3" value="&lt;h6&gt;&lt;span style=&quot;font-size: 8px ; font-weight: 400&quot;&gt;No notification sent to say that it has been assigned - how do they know they have a new case assigned to them?&lt;/span&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="_krw7o2FG_3SmGjkz55r-1" vertex="1">
           <mxGeometry x="750" y="2" width="110" height="51.5" as="geometry" />
         </mxCell>
-        <mxCell id="_krw7o2FG_3SmGjkz55r-62" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Divorce - Petitioner solicitor nominates a respondent solicitor&#39;s firm, and respondent solicitor completes AOS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="_krw7o2FG_3SmGjkz55r-62" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Solicitor - Apply for divorce/dissolution - sole process including issuing case&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="40" y="19" width="2140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_krw7o2FG_3SmGjkz55r-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p6Xr37g33TZ3pclMuA7w-1" target="_krw7o2FG_3SmGjkz55r-3" edge="1">
@@ -6070,6 +6041,16 @@
         </mxCell>
         <mxCell id="5xeZqOf08oSWxwelz_sC-61" value="Last update: 08/12/2020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2010" y="29" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rknWa3BTTEoNBZ9uIA_q-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rknWa3BTTEoNBZ9uIA_q-105" value="Joint" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rknWa3BTTEoNBZ9uIA_q-104">
+          <mxGeometry x="0.23" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
