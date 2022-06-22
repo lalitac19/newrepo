@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T09:29:43.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7ECfv7VQDOkpzkdk5Yf6" version="20.0.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-06-22T09:33:44.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zLlr_WaQad4eNqtLtLFL" version="20.0.1" type="github" pages="11">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
     <mxGraphModel dx="3762" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -6270,12 +6270,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3XTNfizzJSLGS-9auSrE" name="Page-10">
-    <mxGraphModel dx="1426" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="edmFB868oHEy45pAWJuI-0" />
         <mxCell id="edmFB868oHEy45pAWJuI-1" parent="edmFB868oHEy45pAWJuI-0" />
         <mxCell id="VIHmEoKT0T1q73O5o9J6-2" value="&lt;span style=&quot;&quot;&gt;EPIC:&amp;nbsp;&lt;br&gt;&lt;/span&gt;https://tools.hmcts.net/jira/browse/NFDIV-1401" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="edmFB868oHEy45pAWJuI-1">
-          <mxGeometry x="290" y="90" width="260" height="70" as="geometry" />
+          <mxGeometry x="425" y="330" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gE4nVT2_DssXVXaYLv2O-0" value="Citizen" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="edmFB868oHEy45pAWJuI-1">
           <mxGeometry x="20" y="420" width="3760" height="170" as="geometry" />
@@ -6299,7 +6299,7 @@
         <mxCell id="VIHmEoKT0T1q73O5o9J6-1" value="State: Welsh translation review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gE4nVT2_DssXVXaYLv2O-98">
           <mxGeometry x="160" y="60" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gE4nVT2_DssXVXaYLv2O-116" value="Translations dded into language tab&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gE4nVT2_DssXVXaYLv2O-98">
+        <mxCell id="gE4nVT2_DssXVXaYLv2O-116" value="Translations added into language tab&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gE4nVT2_DssXVXaYLv2O-98">
           <mxGeometry x="620" y="60" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gE4nVT2_DssXVXaYLv2O-102" value="Caseworker" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="edmFB868oHEy45pAWJuI-1">
@@ -6334,7 +6334,7 @@
         <mxCell id="gE4nVT2_DssXVXaYLv2O-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="edmFB868oHEy45pAWJuI-1" source="gE4nVT2_DssXVXaYLv2O-110" target="gE4nVT2_DssXVXaYLv2O-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gE4nVT2_DssXVXaYLv2O-110" value="Translation comes back in" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="edmFB868oHEy45pAWJuI-1">
+        <mxCell id="gE4nVT2_DssXVXaYLv2O-110" value="Translate &amp;amp; send back to caseworker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="edmFB868oHEy45pAWJuI-1">
           <mxGeometry x="480" y="960" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gE4nVT2_DssXVXaYLv2O-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="edmFB868oHEy45pAWJuI-1" source="gE4nVT2_DssXVXaYLv2O-107" target="gE4nVT2_DssXVXaYLv2O-110">
@@ -6345,6 +6345,9 @@
         </mxCell>
         <mxCell id="gE4nVT2_DssXVXaYLv2O-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="edmFB868oHEy45pAWJuI-1" source="gE4nVT2_DssXVXaYLv2O-116" target="VIHmEoKT0T1q73O5o9J6-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gE4nVT2_DssXVXaYLv2O-119" value="Welsh Team" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="edmFB868oHEy45pAWJuI-1">
+          <mxGeometry x="20" y="930" width="3760" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
