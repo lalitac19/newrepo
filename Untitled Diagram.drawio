@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T09:28:52.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="bQ-04BHa5N_uDp44H0Vv" version="20.0.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-06-22T09:29:43.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7ECfv7VQDOkpzkdk5Yf6" version="20.0.1" type="github" pages="11">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
     <mxGraphModel dx="3762" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -6274,8 +6274,8 @@
       <root>
         <mxCell id="edmFB868oHEy45pAWJuI-0" />
         <mxCell id="edmFB868oHEy45pAWJuI-1" parent="edmFB868oHEy45pAWJuI-0" />
-        <mxCell id="VIHmEoKT0T1q73O5o9J6-2" value="&lt;span style=&quot;&quot;&gt;Welsh translation resolved&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="edmFB868oHEy45pAWJuI-1">
-          <mxGeometry x="290" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="VIHmEoKT0T1q73O5o9J6-2" value="&lt;span style=&quot;&quot;&gt;EPIC:&amp;nbsp;&lt;br&gt;&lt;/span&gt;https://tools.hmcts.net/jira/browse/NFDIV-1401" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="edmFB868oHEy45pAWJuI-1">
+          <mxGeometry x="290" y="90" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gE4nVT2_DssXVXaYLv2O-0" value="Citizen" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="edmFB868oHEy45pAWJuI-1">
           <mxGeometry x="20" y="420" width="3760" height="170" as="geometry" />
