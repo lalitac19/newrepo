@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T12:04:11.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="CWJOi1QQHOgwCPG1MvMa" version="20.0.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-06-27T12:38:04.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Lf_mljT9fSSjKHQ4u-3s" version="20.0.1" type="github" pages="11">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
     <mxGraphModel dx="3762" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -6267,7 +6267,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3XTNfizzJSLGS-9auSrE" name="Page-10">
-    <mxGraphModel dx="1426" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="edmFB868oHEy45pAWJuI-0" />
         <mxCell id="edmFB868oHEy45pAWJuI-1" parent="edmFB868oHEy45pAWJuI-0" />
@@ -6291,9 +6291,6 @@
         </mxCell>
         <mxCell id="gE4nVT2_DssXVXaYLv2O-116" value="Translations added into language tab&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="gE4nVT2_DssXVXaYLv2O-98" vertex="1">
           <mxGeometry x="620" y="60" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="4AFkf5GS_rEt9cPALF_e-3" value="&lt;h6&gt;&lt;a style=&quot;text-decoration: var(--aui-link-decoration); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; font-weight: 400; text-align: left; background-color: rgb(239, 239, 239);&quot; href=&quot;https://tools.hmcts.net/jira/browse/NFDIV-1447&quot;&gt;&lt;span title=&quot;NFDIV-1447&quot;&gt;NFDIV-1447&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;/h6&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="gE4nVT2_DssXVXaYLv2O-98">
-          <mxGeometry x="230" y="100" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gE4nVT2_DssXVXaYLv2O-102" value="Caseworker" style="swimlane;html=1;startSize=40;horizontal=0;" parent="edmFB868oHEy45pAWJuI-1" vertex="1">
           <mxGeometry x="20" y="760" width="3760" height="170" as="geometry" />
