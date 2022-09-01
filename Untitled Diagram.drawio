@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T08:18:04.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sLD1VCGmkQ1jLC7nTVij" version="20.2.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-09-01T09:50:09.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="WFBXLGDJ9_sXur0zDT3i" version="20.2.4" type="github" pages="11">
   <diagram name="Joint solicitors - application" id="UzjzO_GgUASHsdlZslyv">
-    <mxGraphModel dx="3762" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3762" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="wyB5MmASiWUWbdZRvzDF-0" />
         <mxCell id="wyB5MmASiWUWbdZRvzDF-1" parent="wyB5MmASiWUWbdZRvzDF-0" />
@@ -1190,7 +1190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Joint sol to sol application" id="G1zOZyjJlgcDFVAlR0I8">
-    <mxGraphModel dx="3762" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4237" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-0" />
         <mxCell id="3PJNPCHeUd-rgZYDl06C-1" parent="3PJNPCHeUd-rgZYDl06C-0" />
@@ -1434,7 +1434,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QkKQBiPrjgbkAYxQDz6t-8" value="Check your answers" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
-          <mxGeometry x="7720" y="131.54" width="80" height="73.38" as="geometry" />
+          <mxGeometry x="7720" y="131.54" width="80" height="38.46" as="geometry" />
         </mxCell>
         <mxCell id="QkKQBiPrjgbkAYxQDz6t-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3PJNPCHeUd-rgZYDl06C-3" source="QkKQBiPrjgbkAYxQDz6t-4" target="QkKQBiPrjgbkAYxQDz6t-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1524,7 +1524,7 @@
         <mxCell id="zUB5GOomhGL-5gIx5FpM-6" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Have to click yes in order to continue&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
           <mxGeometry x="7600" y="183.7499999999999" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z1PwQ3MBirWSHV04OKS1-0" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Notification sent to other party&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-3">
+        <mxCell id="z1PwQ3MBirWSHV04OKS1-0" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Notification sent to other party&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-3" vertex="1">
           <mxGeometry x="7950" y="183.7499999999999" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-90" value="App2 Solicitor CAA" style="swimlane;html=1;startSize=40;horizontal=0;" parent="3PJNPCHeUd-rgZYDl06C-2" vertex="1">
@@ -1795,7 +1795,7 @@
         <mxCell id="zUB5GOomhGL-5gIx5FpM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3PJNPCHeUd-rgZYDl06C-97" source="zUB5GOomhGL-5gIx5FpM-12" target="zUB5GOomhGL-5gIx5FpM-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z1PwQ3MBirWSHV04OKS1-1" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Notification sent to both parties&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" vertex="1" parent="3PJNPCHeUd-rgZYDl06C-97">
+        <mxCell id="z1PwQ3MBirWSHV04OKS1-1" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Notification sent to both parties&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#FFFFCC;spacingRight=10;" parent="3PJNPCHeUd-rgZYDl06C-97" vertex="1">
           <mxGeometry x="8390" y="75.86999999999989" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3PJNPCHeUd-rgZYDl06C-134" value="Caseworker" style="swimlane;html=1;startSize=40;horizontal=0;" parent="3PJNPCHeUd-rgZYDl06C-2" vertex="1">
@@ -1871,7 +1871,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zUB5GOomhGL-5gIx5FpM-15" value="Check your answers" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="3PJNPCHeUd-rgZYDl06C-134" vertex="1">
-          <mxGeometry x="8140" y="-242.39" width="80" height="73.38" as="geometry" />
+          <mxGeometry x="8140" y="-242.39" width="80" height="42.39" as="geometry" />
         </mxCell>
         <mxCell id="zUB5GOomhGL-5gIx5FpM-16" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3PJNPCHeUd-rgZYDl06C-134" source="zUB5GOomhGL-5gIx5FpM-10" target="zUB5GOomhGL-5gIx5FpM-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1928,7 +1928,7 @@
         <mxCell id="KB7u2T-ys1BvU8QeaZXG-135" value="&lt;b&gt;Case listed for hearing&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="rNw9qaZBMHgX9FFlJCg4-3" vertex="1">
           <mxGeometry x="5574" y="91.9799999999999" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KB7u2T-ys1BvU8QeaZXG-137" value="COE Generated" style="rounded=0;whiteSpace=wrap;html=1;" parent="rNw9qaZBMHgX9FFlJCg4-3" vertex="1">
+        <mxCell id="KB7u2T-ys1BvU8QeaZXG-137" value="COE Generated &amp;amp; sent to all parties" style="rounded=0;whiteSpace=wrap;html=1;" parent="rNw9qaZBMHgX9FFlJCg4-3" vertex="1">
           <mxGeometry x="5780" y="70.4799999999999" width="120" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="KB7u2T-ys1BvU8QeaZXG-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="rNw9qaZBMHgX9FFlJCg4-3" source="KB7u2T-ys1BvU8QeaZXG-135" target="KB7u2T-ys1BvU8QeaZXG-137" edge="1">
